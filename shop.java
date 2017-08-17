@@ -1,6 +1,4 @@
 flower
 close
-apple
-box
 fix
-
+1234
